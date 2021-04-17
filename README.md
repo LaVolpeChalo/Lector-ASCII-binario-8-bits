@@ -1,1 +1,1 @@
-# Lector-ASCII-8-bits
+# Lector-ASCII/Binario-8-bits
